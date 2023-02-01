@@ -36,6 +36,7 @@ h3 {
   border-radius: 5px;
   border: 0.5px solid grey;
   margin-bottom: 16px;
+  box-shadow: 2px 2px 3px #181412;
 }
 
 #btn:hover {
@@ -48,7 +49,7 @@ h3 {
   border-radius: 5px;
   box-shadow: 0 0 8px #ab9083;
   padding: 8px 32px;
-  background-color: #f7cddd;
+  background-color: #fcb0cd;
 }
 
 #card-box {
@@ -66,7 +67,7 @@ h3 {
   margin-top: 32px;
   margin-bottom: 32px;
   padding: 50px 0;
-  background-color: #fbf0f4;
+  background-color: #f7cddd;
 }
 
 .card ol li {
